@@ -14,3 +14,7 @@
 
 ##YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK(AND IT SHOULD NOT BE LESS THAN 500 WORDS)
 
+#OUTPUT
+
+<img width="778" alt="Image" src="https://github.com/user-attachments/assets/5912c19a-6fec-425c-b626-514869c70609" />
+
